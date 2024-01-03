@@ -11,8 +11,8 @@ Read Project Overview to understand our initial direction and read below for the
 # Contact creators
 
 Chris Usher- christopher.e.usher@gmail.com
-Lucia Ene-Lesikar- luciaenelesikar@gmail.com
 Lucy Adeniji- lucy.adeniji@gmail.com
+Lucia Ene-Lesikar- luciaenelesikar@gmail.com
 
 ## Purpose and approach 
 
