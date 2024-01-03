@@ -21,6 +21,5 @@ The objective of this project has been to investigate, capture, and respond to p
 To understand these currents, we have applied netnography to online discourse around AI. Drawing from this an appreciation for the prevailing narratives and themes surrounding AI, we cluster our findings around these themes and subject them to close semeiotic analysis, using the symbols and connotations of language used to understand the deeper meaning and significance of these themes. Drawing insights from this analysis, we then conducted a process of creative speculation, drawing on practices of science fiction writing and art practice to develop a fictional origin/creation myth for AI in the form of a narrated video. Both the decision to pursue this genre and the content developed within it draw upon insight made in our semeiotic analysis. We draw on both human insight and AI interpretation to develop this material. 
 
 # References
-
 Style Guide:
 Selections from 'Our Universe', 'Arrival', 'Powaqatsi', 'Koyaaniqatsi', 'Baraka' and a few other selected shots.
